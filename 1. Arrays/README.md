@@ -7,3 +7,4 @@
 6) Make Unique Array - [ProPeers](https://www.naukri.com/code360/problems/make-unique-array_920329)
 7) Sum Of Zeroes - [ProPeers](https://www.naukri.com/code360/problems/array-sum_893287)
 8) Matrix Is Symmetric - [ProPeers](https://www.naukri.com/code360/problems/matrix-is-symmetric_799361)
+9) Pair Sum - [ProPeers](https://www.naukri.com/code360/problems/pair-sum_1171154)
