@@ -10,3 +10,4 @@
 9) Pair Sum - [ProPeers](https://www.naukri.com/code360/problems/pair-sum_1171154)
 10) Bubble Sort - [ProPeers](https://www.naukri.com/code360/problems/bubble-sort_980524)
 11) Selection Sort - [ProPeers](https://www.naukri.com/code360/problems/selection-sort_981162)
+12) Insertion Sort - [ProPeers](https://www.naukri.com/code360/problems/insertion-sort_3155179)
