@@ -14,3 +14,4 @@
 13) Intersection Of Two Sorted Arrays - [ProPeers](https://www.naukri.com/code360/problems/intersection-of-2-arrays_1082149)
 14) Maximum Subarray Sum - [ProPeers](https://www.naukri.com/code360/problems/630526)
 15) Move Zeroes To End - [ProPeers](https://www.naukri.com/code360/problems/interview-shuriken-41-move-zeroes-to-end_240143)
+16) Square Root of a number - [ProPeers](https://www.naukri.com/code360/problems/square-root-integral_893351)
