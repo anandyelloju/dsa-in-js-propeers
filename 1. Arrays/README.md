@@ -15,3 +15,4 @@
 14) Maximum Subarray Sum - [ProPeers](https://www.naukri.com/code360/problems/630526)
 15) Move Zeroes To End - [ProPeers](https://www.naukri.com/code360/problems/interview-shuriken-41-move-zeroes-to-end_240143)
 16) Square Root of a number - [ProPeers](https://www.naukri.com/code360/problems/square-root-integral_893351)
+17) Search In Rotated Sorted Array - [ProPeers](https://www.naukri.com/code360/problems/630450)
