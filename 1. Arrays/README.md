@@ -18,3 +18,4 @@
 17) Search In Rotated Sorted Array - [ProPeers](https://www.naukri.com/code360/problems/630450)
 18) Move All Negative Numbers To Beginning And Positive To End - [ProPeers](https://www.naukri.com/code360/problems/move-all-negative-numbers-to-beginning-and-positive-to-end_1112620)
 19) Container With Most Water - [ProPeers](https://www.naukri.com/code360/problems/container-with-most-water_873860)
+20) Longest Subarray Zero Sum - [ProPeers](https://www.naukri.com/code360/problems/longest-subset-zero-sum_920321)
