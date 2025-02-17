@@ -21,3 +21,4 @@
 20) Longest Subarray Zero Sum - [ProPeers](https://www.naukri.com/code360/problems/longest-subset-zero-sum_920321)
 21) Sort 0 1 2 - [ProPeers](https://www.naukri.com/code360/problems/631055)
 22) Moore’s Voting Algorithm - [ProPeers](https://www.naukri.com/code360/problems/842495)
+23) Check subsequence - [ProPeers](https://www.naukri.com/code360/problems/is-subsequence_892991)
