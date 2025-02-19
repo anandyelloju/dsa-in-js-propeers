@@ -23,3 +23,4 @@
 22) Moore’s Voting Algorithm - [ProPeers](https://www.naukri.com/code360/problems/842495)
 23) Check subsequence - [ProPeers](https://www.naukri.com/code360/problems/is-subsequence_892991)
 24) Inplace rotate matrix 90 degree - [ProPeers](https://www.naukri.com/code360/problems/inplace-rotate-matrix-90-degree_839734)
+25) Set Matrix Zeros - [ProPeers](https://www.naukri.com/code360/problems/set-matrix-zeros_3846774)
