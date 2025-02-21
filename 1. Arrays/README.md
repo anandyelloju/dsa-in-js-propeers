@@ -25,3 +25,4 @@
 24) Inplace rotate matrix 90 degree - [ProPeers](https://www.naukri.com/code360/problems/inplace-rotate-matrix-90-degree_839734)
 25) Set Matrix Zeros - [ProPeers](https://www.naukri.com/code360/problems/set-matrix-zeros_3846774)
 26) Count all sub-arrays having sum divisible by k - [ProPeers](https://www.naukri.com/code360/problems/count-all-sub-arrays-having-sum-divisible-by-k_973254)
+27) Print Spiral - [ProPeers](https://www.naukri.com/code360/problems/print-spiral_547)
