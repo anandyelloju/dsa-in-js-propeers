@@ -6,3 +6,4 @@
 5) Given a string, find the next smallest palindrome - [ProPeers](https://www.naukri.com/code360/problems/given-a-string-find-the-next-smallest-palindrome_874577)
 6) First non repeating character - [ProPeers](https://www.naukri.com/code360/problems/first-non-repeating-character_920324)
 7) Check Permutation - [ProPeers](https://www.naukri.com/code360/problems/check-permutation_1172164)
+8) Find K’th Character of Decrypted String - [ProPeers](https://www.naukri.com/code360/problems/find-k-th-character-of-decrypted-string_630508)
