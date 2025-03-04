@@ -7,3 +7,4 @@
 6) First non repeating character - [ProPeers](https://www.naukri.com/code360/problems/first-non-repeating-character_920324)
 7) Check Permutation - [ProPeers](https://www.naukri.com/code360/problems/check-permutation_1172164)
 8) Find K’th Character of Decrypted String - [ProPeers](https://www.naukri.com/code360/problems/find-k-th-character-of-decrypted-string_630508)
+9) Group Anagrams - [ProPeers](https://www.naukri.com/code360/problems/group-anagrams_800285)
